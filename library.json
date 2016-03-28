@@ -1,0 +1,12 @@
+{
+    "name": "SoftwareSPI",
+    "keywords": "spi",
+    "description": "A barebones library for bitbanging SPI",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Flickerstrip/SoftwareSPI.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
